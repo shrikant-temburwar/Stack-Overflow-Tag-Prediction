@@ -1,8 +1,6 @@
 # Stack-Overflow-Tag-Prediction
 
 <h1>1. Business Problem </h1>
-
-<h1>1. Business Problem </h1>
 <h2> 1.1 Description </h2>
 
 <p style='font-size:18px'><b> Description </b></p>
@@ -14,10 +12,6 @@ Stack Overflow is something which every programmer use one way or another. Each 
 </p>
 
 <p style='font-size:18px'><b> Problem Statemtent </b></p>
-
-1.   List item
-2.   List item
-
 
 Suggest the tags based on the content that was there in the question posted on Stackoverflow.
 
